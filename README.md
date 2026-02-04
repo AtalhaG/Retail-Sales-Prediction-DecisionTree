@@ -40,10 +40,4 @@ Projede **Decision Tree Regressor** kullanılarak elde edilen test sonuçları a
 
 Model, satışlardaki varyasyonun yaklaşık **%90'ını** başarıyla açıklamaktadır.
 
-## 💻 Kurulum ve Kullanım
 
-Projeyi kendi bilgisayarınızda çalıştırmak için:
-
-1. Repoyu klonlayın:
-   ```bash
-   git clone [https://github.com/KULLANICI_ADINIZ/Store-Sales-Forecasting-Analysis.git](https://github.com/KULLANICI_ADINIZ/Store-Sales-Forecasting-Analysis.git)
